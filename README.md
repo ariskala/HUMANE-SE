@@ -10,6 +10,57 @@ This repository contains the methodology, documentation, and implementation conc
 
 ---
 
+## HUMANE-SE Framework
+
+![HUMANE-SE Framework](figures/humane_se_framework.png)
+
+The HUMANE-SE framework combines labor market data collection, ESCO-based skill extraction, semantic similarity mapping, network analysis, and AI-assisted recommendation generation to identify hybrid human-centric Software Engineering skill profiles.
+
+---
+
+## Global Humics Network
+
+![Global Humics Network](figures/humics_global_network.png)
+
+The global co-occurrence network illustrates relationships between human-centric and technical skills identified in Software Engineering job postings.
+
+---
+
+## Humics Skills Frequency Analysis
+
+![Humics Skills Frequency](figures/humic_skills_frequency.png)
+
+Communication, adaptability, problem-solving, collaboration, and professional development emerged as some of the most frequently requested humics skills.
+
+---
+
+## Occupation Similarity Ego Networks
+
+### Blockchain Developer Network
+
+![Blockchain Developer Network](figures/blockchain_developer_network.png)
+
+### Mobile Application Developer Network
+
+![Mobile Application Developer Network](figures/mobile_application_developer_network.png)
+
+### Embedded Systems Network
+
+![Embedded Systems Network](figures/embedded_systems_network.png)
+
+### ICT Application Developer Network
+
+![ICT Application Developer Network](figures/ict_application_network.png)
+
+---
+
+## Humic Skill Explorer
+
+![Humic Skill Explorer](figures/humic_skill_explorer.png)
+
+The HUMANE-SE platform includes an interactive humics exploration environment capable of generating job role and learning pathway recommendations using LLM-assisted workflows.
+
+---
 ## Research Objectives
 
 The main objectives of HUMANE-SE are:
