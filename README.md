@@ -1,5 +1,11 @@
 # HUMANE-SE
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Research](https://img.shields.io/badge/Research-AI%20%26%20NLP-green)
+![Network Analysis](https://img.shields.io/badge/Graph-Network%20Analysis-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Research%20Framework-success)
+
 ## Human-centric Software Engineering in the AI Era
 
 HUMANE-SE (Human-centric Mapping and Assessment of Needs and Expertise in Software Engineering) is a research-oriented framework designed to analyze the coexistence of technical and human-centric skills in Software Engineering job markets.
