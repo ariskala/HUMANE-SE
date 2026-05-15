@@ -160,4 +160,4 @@ Future extensions of the framework may include:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
