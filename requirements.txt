@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+matplotlib
+plotly
+scikit-learn
+transformers
+sentence-transformers
+jupyter
+notebook
+requests
