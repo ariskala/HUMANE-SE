@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Large generated outputs
+outputs/
+generated_graphs/
+
+# Temporary files
+tmp/
+temp/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
