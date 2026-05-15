@@ -56,7 +56,7 @@ Communication, adaptability, problem-solving, collaboration, and professional de
 
 ## Humic Skill Explorer
 
-![Humic Skill Explorer](figures/humic_skill_explorer.png)
+![Humic Skill Explorer](figures/humic_skill_explorer.PNG)
 
 The HUMANE-SE platform includes an interactive humics exploration environment capable of generating job role and learning pathway recommendations using LLM-assisted workflows.
 
