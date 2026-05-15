@@ -44,6 +44,7 @@ The framework combines:
 ## Core Concepts
 
 ### Humics
+
 Humics are uniquely human skills that remain resistant to automation, including:
 
 - Communication
@@ -55,6 +56,7 @@ Humics are uniquely human skills that remain resistant to automation, including:
 - Collaboration
 
 ### Humics Hubs
+
 Humics Hubs represent clusters of co-occurring human-centric and technical skills identified through network analysis.
 
 ---
@@ -81,3 +83,37 @@ HUMANE-SE/
 ├── notebooks/
 ├── figures/
 └── src/
+```
+
+---
+
+## Thesis Information
+
+- Author: Aristotelis Kalantzis
+- Institution: Aristotle University of Thessaloniki
+- School: School of Informatics
+
+### Research Areas
+
+- Software Engineering
+- AI & Labor Market Analysis
+- Human-centric Computing
+- Skill Intelligence
+
+---
+
+## Future Work
+
+Future extensions of the framework may include:
+
+- Real-time labor market monitoring
+- Multi-taxonomy skill mapping
+- Explainable AI integration
+- Expanded occupation similarity networks
+- Cross-domain humics analysis
+
+---
+
+## License
+
+This project is licensed under the MIT License.
