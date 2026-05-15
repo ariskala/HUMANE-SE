@@ -73,19 +73,6 @@ Humics Hubs represent clusters of co-occurring human-centric and technical skill
 
 ---
 
-## Repository Structure
-
-```text
-HUMANE-SE/
-│
-├── docs/
-├── data/
-├── notebooks/
-├── figures/
-└── src/
-```
-
----
 
 ## Thesis Information
 
